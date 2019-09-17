@@ -14,7 +14,12 @@ Nashville FCC's version of the local weather app project completed by the Mentor
 
 ## Overview
 ### Description
+
+We have made a app designed to show you what weather's happening where around you. Allow your browser to detect where you are, or simply search by zip code or city name.  You can see the temperature in either celsius or farenheit. 
+
 ### Project Management
+
+If you want to contribute, please read the [link to guidelines](http://google.com). 
 
 ## Installation
 ### Requirements
